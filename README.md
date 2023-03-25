@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 📝 I regularly write articles on [www.markpitblado.me/articles](www.markpitblado.me/articles)
+- 📝 I regularly write articles on [www.markpitblado.me/articles](https://www.markpitblado.me/articles)
 
 - 📫 How to reach me **www.markpitblado.me/contact**
 
