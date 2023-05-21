@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Arguing with People on the Internet: Navigating Disagreements in the Digital Age](https://www.markpitblado.me/articles/arguing_online)
 - [Book Review: The Good Life](https://www.markpitblado.me/articles/the-good-life-book-review)
 - [Search is Beginning to Show Its Age](https://www.markpitblado.me/articles/search-is-beginning-to-show-its-age)
 - [The Internet is About to Get a Whole Lot Noisier](https://www.markpitblado.me/articles/the-internet-is-about-to-get-noisier)
 - [Tools for Thought: Logseq](https://www.markpitblado.me/articles/tools-for-thought-logseq)
-- [Data in Public Health: Why we Need a Change in Thinking](https://www.markpitblado.me/articles/data-in-public-health)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
