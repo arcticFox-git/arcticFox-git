@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Small Communities](https://www.markpitblado.me/articles/the-power-of-small-communities)
 - [Nothing is Truly Free](https://www.markpitblado.me/articles/nothing-is-truly-free)
 - [The Art of Arguing with People on the Internet: Navigating Disagreements in the Digital Age](https://www.markpitblado.me/articles/arguing_online)
 - [Book Review: The Good Life](https://www.markpitblado.me/articles/the-good-life-book-review)
 - [Search is Beginning to Show Its Age](https://www.markpitblado.me/articles/search-is-beginning-to-show-its-age)
-- [The Internet is About to Get a Whole Lot Noisier](https://www.markpitblado.me/articles/the-internet-is-about-to-get-noisier)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
